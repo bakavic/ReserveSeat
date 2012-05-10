@@ -10,4 +10,8 @@ public class ReserveSeatActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
     }
+    
+    public void GroupHist (View v) {
+    	
+    }
 }

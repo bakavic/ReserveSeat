@@ -3,5 +3,6 @@
 
     <string name="hello">Hello World, ReserveSeatActivity!</string>
     <string name="app_name">ReserveSeat</string>
+    <string name="create_new_grp">Create New Group</string>
 
 </resources>
